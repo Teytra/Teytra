@@ -1,4 +1,7 @@
-![MasterHead](http://c4.wallpaperflare.com/wallpaper/715/938/530/league-of-legends-viego-league-of-legends-ruined-game-art-video-games-hd-wallpaper-preview.jpg)
+<center>
+    <img src="http://c4.wallpaperflare.com/wallpaper/715/938/530/league-of-legends-viego-league-of-legends-ruined-game-art-video-games-hd-wallpaper-preview.jpg" width="1080">
+    
+</center>
 <h1 align="center">Hi 👋, I'm Teytra</h1>
 <h3 align="center">Any Computer Science Student</h3>
 
