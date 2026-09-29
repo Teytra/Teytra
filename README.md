@@ -2,8 +2,8 @@
     <img src="http://c4.wallpaperflare.com/wallpaper/715/938/530/league-of-legends-viego-league-of-legends-ruined-game-art-video-games-hd-wallpaper-preview.jpg" width="1080">
     
 </center>
-<h1 align="center">Hi 👋, I'm Teytra</h1>
-<h3 align="center">Any Computer Science Student</h3>
+<h1 style="color: green; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-style: solid; border-radius: 500px; width: 300px; margin: auto; margin-top: 40px; border-color: aqua; background-color: beige;"  align="center">Hi 👋, I'm Teytra</h1>
+<h3 style="color: chartreuse; font-size: 15px; font-family: 'Courier New', Courier, monospace;"  align="center"><strong>Any Computer Science Student</strong> </h3>
 
 
 
